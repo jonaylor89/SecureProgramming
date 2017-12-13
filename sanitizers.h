@@ -1,5 +1,5 @@
-#ifndef _SanitizeEnviron_h
-#define _SanitizeEnviron_h 
+#ifndef _sanitizers_h
+#define _sanitizers_h 
 
 extern char **environ;
 

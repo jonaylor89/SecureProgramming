@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <paths.h>
-#include "SanitizeEnviron.h"
+#include "sanitizers.h"
 
 /* These arrays are both null terminated */
 
